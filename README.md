@@ -1,2 +1,3 @@
-# Fire.man.simulator
-Simulate a fire in florest , you mission is to command  prevent
+lazer game
+
+https://playground.google/g/utNsdm
